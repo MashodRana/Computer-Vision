@@ -19,7 +19,7 @@ points that we will extract.
     - extract pixels from the image with help of coordinates.
 
 ### Resources
-To get details intuition these links will could be helpful.
+To get details intuition these links could be helpful.
 - [points inside a contour](http://opencv-users.1802565.n2.nabble.com/points-inside-a-contour-td5318979.html)
 - [efficient way of counting pixels in a contour - opencv](https://html.developreference.com/article/25267637/efficient+way+of+counting+pixels+in+a+contour)
 - [How to print all coordinates inside the Contour opencv - opencv](https://html.developreference.com/article/22683795/How+to+print+all+coordinates+inside+the+Contour+opencv)
