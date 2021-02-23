@@ -10,7 +10,7 @@ How we can extract pixel values of contours of an image.
 
 ### 3. [Digit Recognizer: CNN with TensorFlow](https://www.kaggle.com/mashodrana/digit-recognition)
 #### Digit Recognition
-I build a classfier with Convolution Neural Network which classify digit images. Keras of TnesorFlow is used in this work.
+I build a classfier with **Convolution Neural Network** which classify digit images. Keras of **TnesorFlow** is used in this work.
 
 Main contents of this wprk
   - Data Processing
